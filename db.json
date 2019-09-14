@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "Issue with hard drive",
+      "attention": true,
+      "date": "04-02-2019",
+      "tech": "Joe Rogan"
+    },
+    {
+      "id": 3,
+      "message": "Changed CPU",
+      "attention": false,
+      "date": "05-02-2019",
+      "tech": "Richie Rich"
+    }
+  ],
+  "techs": [
+    
+  ]
+}
