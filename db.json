@@ -2,14 +2,14 @@
   "logs": [
     {
       "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed hard drive on wor kstation 005",
       "attention": false,
       "date": "03-02-2019",
       "tech": "Sam Smith"
     },
     {
       "id": 2,
-      "message": "Issue with hard drive",
+      "message": "Workstation 007 not posting",
       "attention": true,
       "date": "04-02-2019",
       "tech": "Joe Rogan"
@@ -23,6 +23,20 @@
     }
   ],
   "techs": [
-    
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Joe",
+      "lastName": "Rogan"
+    },
+    {
+      "id": 3,
+      "firstName": "Richie",
+      "lastName": "Rich"
+    }
   ]
 }
